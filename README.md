@@ -1,5 +1,5 @@
 # Licensing 
-These repositoriesare published as a reference implementation and research artifact.
+These repositories are published as a reference implementation and research artifact.
 ## License
 
 These works are licensed under  
